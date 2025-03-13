@@ -62,23 +62,23 @@ flowchart TD
         subgraph Ops
             Scaling["Scaling"]
             Automation["Automation"]
-            GitOps["GitOps"]
-            IaC["Infrastructure as Code"]
+            Infrastructure["Infra"]
+            LargeScaleData["Big Data"]
         end
         
         subgraph Dev
-            Infrastructure["Infrastructure"]
-            LargeScaleData["Large Scale Data"]
-            DistComp["Distributed Computing"]
-            DevEx["Developer Experience"]
+            GitOps["GitOps"]
+            IaC["Infra as Code"]
+            DistComp["Distrib. Comp."]
+            DevEx["DevEx"]
         end
     end
     
     class Me me
     class Block1 block1
     class Block2 block2
-    class Scaling,Automation,GitOps,IaC ops
-    class Infrastructure,LargeScaleData,DistComp,DevEx dev
+    class Scaling,Automation,Infrastructure,LargeScaleData ops
+    class GitOps,IaC,DistComp,DevEx dev
     class CURRENT current
 
 ```
