@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I'm Laimis Juzeliūnas a DevOps engineer [@oxylabs](https://github.com/oxylabs) working within Data team. I take care of large scale platform builds, do my best to create a self healing infrastructure and enhance overall development experience.  
+I'm Laimis Juzeliūnas - SRE/DevOps/Infrastructure engineer. I take care of large scale platform builds, do my best to create a self healing infrastructure and enhance overall development experience.  
 On my free time I like to contribute back to the open-source community with whatever I find and however I can.
 
 ```mermaid
