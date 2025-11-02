@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 I'm Laimis Juzeliūnas - SRE/DevOps/Infrastructure engineer. I take care of large scale platforms, create self healing systems and enhance overall development experience.  
 On my free time I like to contribute back to the open-source community with whatever I find and however I can.
 
-![Dog](https://github.com/laimis9133/laimis9133/blob/main/Dog.jpg)
+![Dog](https://github.com/laimis9133/laimis9133/blob/main/Sol.jpg)
